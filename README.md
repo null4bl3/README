@@ -6,25 +6,27 @@ Projects / CV / Resume
 * loopback + 2 years
 * angularjs / angular + 4 years
 * elasticsearch 2 years
-* python 10 years 
-* mysql 7 years
-* mongodb 4 years
+* python 8 years 
 
+* MySQL 7 years
+* MongoDB 4 years
+* Linux +10 years
+* Nginx +4 years
 
-
-
-### Advanced CDN system for LEGO 2017 2018+
+### Advanced CDN system for LEGO 2017 / 2018+
 Using electronjs / nodejs for a client, and loopback, sailsjs, nodejs and Angular for a backend with three main entry points to a FAQ system for official LEGO stores using FAQ and support tickets, an admin portal with client configuration and maintanance, data integration and visualization, as well as a squirrel based electronjs client update server. 
 
 The main purpose of the project was to build a client and a system to handle and perform updates of the Augmented Reality software LEGO uses to display animations in their Brand stores worldwide. 
 
-### Data integration 2017
-Advanced data integration project for the Danish government. 
+### Data calculation and visualization 
 
 
+### Complex Data integration 2017
+Advanced data integration project for the Danish government. Project was to integrate dynamic scheduleplan / workshift data, meal + mealdishes from external sources as well as news feeds and institution level activities into an existing platform offering an interactive kiosk solution system nationwide, for government operated care taking facilities.
 
+### statworks
+Site project providing Information-as-a-service for monitoring servers and clients. Complete system with advanced data analysis and notification system.
 
---------------------------------------------------
 ### bitbot.cc
 Excessive random generator framework involving web scraping using Python with Beautiful Soup and scrapy, Cheerio.js and phantomjs in Javascript, intelligent facial recognition from images, along with complete site for user creation, commenting, likes and sharing. 
 
