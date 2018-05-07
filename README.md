@@ -2,7 +2,13 @@
 Projects / CV / Resume
 ======
 ### Exerienced in:
-nodejs +5 years, loopback + 2 years, angularjs / angular + 4 years, elasticsearch 2 years, python 10 years, mysql 8 years, mongodb 4 years.
+* nodejs +5 years
+* loopback + 2 years
+* angularjs / angular + 4 years
+* elasticsearch 2 years
+* python 10 years 
+* mysql 7 years
+* mongodb 4 years
 
 
 
